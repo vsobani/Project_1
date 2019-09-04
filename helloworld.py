@@ -1,1 +1,1 @@
-print ("hello")
+print("'please don't' be late for class")
