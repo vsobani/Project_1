@@ -20,3 +20,9 @@ print('one','two','three',end='')
 print('four''five''six',end='')
 print('seven','eight','nine',end='sep')
 
+for i in range(1,11,2):
+    print(i)
+    
+    
+print('Hello world') 
+print(2+3)
